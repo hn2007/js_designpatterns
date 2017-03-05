@@ -1,4 +1,4 @@
-# javascript design patterns cheat sheet using jquery for some examples.
+# javascript design patterns cheat sheet.
 Simple examples to help you understand Design Patterns in Javascript
 
 __Available__
